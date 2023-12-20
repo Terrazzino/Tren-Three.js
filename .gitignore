@@ -1,0 +1,7 @@
+# Vite
+# .vite/
+# dist/
+# .cache/
+# .env
+# .env.local
+./node_modules/.vite
