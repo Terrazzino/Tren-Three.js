@@ -1,7 +1,13 @@
-# Vite
-# .vite/
-# dist/
-# .cache/
-# .env
-# .env.local
-./node_modules/.vite
+# Node.js
+./node_modules
+
+# Archivos de configuración
+./package-lock.json
+
+# Archivos sensibles o locales (puedes ajustar según tu entorno)
+.env
+.env.local
+
+# Archivos de dependencias específicos de un entorno
+npm-debug.log
+yarn-error.log
